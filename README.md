@@ -7,6 +7,11 @@ Key Features
 ->Real-Time Progress Visualization with dynamic progress bars
 ->Cloud Database Integration with Appwrite to persist user data securely
 
+![image](https://github.com/user-attachments/assets/0bbfc6bc-2281-43ea-9c70-f745a5a3d1c6)
+
+
+
+
 
 Tech Stack
 Frontend: React, TailwindCSS, react-calendar
